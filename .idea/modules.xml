@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bootcamp_Santander.iml" filepath="$PROJECT_DIR$/Bootcamp_Santander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula_sistema-smart-tv/aula_sistema-smart-tv.iml" filepath="$PROJECT_DIR$/aula_sistema-smart-tv/aula_sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio1_ContaBanco/desafio1_ContaBanco.iml" filepath="$PROJECT_DIR$/desafio1_ContaBanco/desafio1_ContaBanco.iml" />
     </modules>
   </component>
 </project>
